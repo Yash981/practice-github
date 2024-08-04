@@ -10,4 +10,4 @@ export default function Home() {
     </main>
   );
 }
-"console.log('Feature branch 1');" 
+console.log('Resolved feature branches conflict');
